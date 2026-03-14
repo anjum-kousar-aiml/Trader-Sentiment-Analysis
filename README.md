@@ -43,8 +43,6 @@ These insights can help traders adjust their strategies based on market sentimen
 
 ## Files Included
 - `trader_sentiment_analysis.ipynb` – Jupyter notebook containing the full analysis
-- `fear_greed_index.csv` – Market sentiment dataset
-- `historical_data.csv` – Trader activity dataset
 
 ## How to Run
 1. Open the notebook in Jupyter Notebook or Jupyter Lab.
